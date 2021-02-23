@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to SDV503 Workflow 👋</h1>
+<h1 align="center">Welcome to SDV503 Practice Lab 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -50,19 +50,19 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Workflow Description
 
-:arrow_right: `Print Hello World!`
-
-Example: 
-```javascript
-    console.log("Hello World!")
-``` 
-
-:arrow_right: `Install Quokka.js extension for this class.`
+:arrow_right: `Clone the repository on your laptop.`
+:arrow_right: `Add a JavaScript file to the repository. Name the file index.`
+:arrow_right: `Add markdown file to the repository. Name the file journal.`
+:arrow_right: `Create a new branch and name it develop.`
+:arrow_right: `Add an HTML file to the develop branch. Name the file index`
+:arrow_right: `Add a CSS file to the develop branch. Name the file index`
+:arrow_right: `Add, commit and push to the branch working on for every change you do in the repository.`
+:arrow_right: `Do not forget the types of files you adding. Example: A JavaScript file is index.js`
 
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|
+|[GitHub Guides](https://guides.github.com/activities/hello-world/)|[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)|[GitHub classroom](https://github.com/jfiksel/github-classroom-for-students)|
 |---|---|---|
 
 ## :loudspeaker: IMPORTANT NOTE
