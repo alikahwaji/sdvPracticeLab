@@ -48,15 +48,22 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Workflow Description
+## :page_facing_up: Practice Description
 
 :arrow_right: `Clone the repository on your laptop.`
+
 :arrow_right: `Add a JavaScript file to the repository. Name the file index.`
+
 :arrow_right: `Add markdown file to the repository. Name the file journal.`
+
 :arrow_right: `Create a new branch and name it develop.`
+
 :arrow_right: `Add an HTML file to the develop branch. Name the file index`
+
 :arrow_right: `Add a CSS file to the develop branch. Name the file index`
+
 :arrow_right: `Add, commit and push to the branch working on for every change you do in the repository.`
+
 :arrow_right: `Do not forget the types of files you adding. Example: A JavaScript file is index.js`
 
 
